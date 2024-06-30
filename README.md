@@ -14,7 +14,7 @@ This is a simple Django project that serves an API for managing movies and their
 1. Clone the repository:
 
 ```sh
-git clone <repository_url>
+git clone https://github.com/Dpancha6/django-coding-challenge.git
 cd coding_challenge
 ```
 
